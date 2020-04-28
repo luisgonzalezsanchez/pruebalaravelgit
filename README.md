@@ -15,6 +15,9 @@ Comandos básicos al montar el proyecto
 
 Passport es la manera que se usa para validar las Autenticación del usuario, ya esta instalado en el proyecto, solo hace falta correr los siguientes comandos:
 
+
+sale esto
+
 > php artisan migrate
 >
 > php artisan passport:install
